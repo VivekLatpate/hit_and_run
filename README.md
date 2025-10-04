@@ -1,5 +1,7 @@
 # Accident Detection System with OpenCV
 
+Only this works:- python simple_accident_detection.py
+
 This repository contains scripts to run real-time accident detection using your custom trained YOLO model with OpenCV.
 
 ## Model Available
