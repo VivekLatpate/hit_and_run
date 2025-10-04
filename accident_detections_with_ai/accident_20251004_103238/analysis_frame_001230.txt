@@ -1,0 +1,11 @@
+ACCIDENT FRAME ANALYSIS
+==================================================
+Frame Number: 1230
+Detection Time: 2025-10-04 10:32:38.804474
+Image File: frame_001230_20251004_103238.jpg
+
+==================================================
+GEMINI AI ANALYSIS:
+==================================================
+Analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+==================================================

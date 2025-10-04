@@ -1,0 +1,53 @@
+ACCIDENT FRAME ANALYSIS
+==================================================
+Frame Number: 170
+Time in Video: 2.83s
+Detection Time: 2025-10-04 10:55:19.741740
+Confidence: 0.63
+Image File: accident_frame_000170_20251004_105433.jpg
+
+==================================================
+GEMINI AI ANALYSIS:
+==================================================
+Here is a detailed analysis of video frame #170 taken at 2.83s:
+
+**Accident Analysis**
+
+1.  **Number of vehicles involved:**
+    Two (2) vehicles are clearly involved in the accident.
+
+2.  **Vehicle types:**
+    *   Vehicle 1 (on the left): Appears to be a White/Silver SUV or Crossover.
+    *   Vehicle 2 (in the center/right): Appears to be a heavily fragmented White Car or SUV, now severely deformed and partially disintegrated.
+
+3.  **Vehicle colors:**
+    *   Vehicle 1: White or light silver.
+    *   Vehicle 2: Predominantly white, with internal components or severely damaged areas appearing dark grey or black.
+
+4.  **License plate numbers (if visible):**
+    License plate numbers are not visible on either vehicle due to damage, vehicle orientation, and image resolution.
+
+5.  **Vehicle damage assessment:**
+    *   **Vehicle 1 (White SUV/Crossover):** Exhibits significant front-end damage. The bumper, grille, and hood are severely crumpled and detached in parts. Headlights appear shattered or missing. The vehicle appears disabled but largely intact structurally.
+    *   **Vehicle 2 (Heavily damaged vehicle):** Suffered catastrophic damage. The vehicle is violently torn apart and scattered across the road. The main mass visible appears to be the rear section and chassis, severely crumpled and distorted, with its underside exposed. Other parts of the vehicle, including what looks like a cabin section, are also heavily crushed and separated. The level of destruction suggests an extremely high-impact collision. A figure, resembling a person, is seen ejected into the air near this wreckage.
+
+6.  **Accident severity (minor, moderate, severe):**
+    **Severe.** The catastrophic damage to one vehicle, significant damage to the other, and the likely ejection of a person indicate a high-speed, high-impact collision with a high probability of severe injuries or fatalities.
+
+7.  **Road conditions:**
+    The road is asphalt and appears dry. There are clear double yellow lines indicating two-way traffic and a white line along the right shoulder. Accident debris, consisting of small dark fragments, is scattered on the road surface around the heavily damaged vehicle.
+
+8.  **Weather conditions (if visible):**
+    The weather appears clear and sunny. There is a clear blue sky, and no precipitation, fog, or adverse weather conditions are visible.
+
+9.  **Any emergency vehicles present:**
+    No emergency vehicles (police, ambulance, fire) are visible in this frame.
+
+10. **Recommended emergency response level:**
+    **Immediate and Maximum Emergency Response.**
+    *   **Medical:** Multiple ambulances and advanced life support paramedics are critically needed due to the severe nature of the impact and potential for multiple critically injured individuals or fatalities (especially given the ejected figure).
+    *   **Fire Services:** Required to assess for and mitigate potential fire hazards, fuel leaks, or other spills resulting from the high-impact collision.
+    *   **Law Enforcement:** Police presence is essential for securing the scene, traffic control, accident investigation, and reporting.
+    *   **Traffic Management:** Full or partial road closure will likely be necessary due to debris and vehicle placement obstructing the roadway.
+    *   **Recovery/Cleanup:** Heavy-duty tow trucks and cleanup crews will be needed for vehicle removal and debris clearance.
+==================================================

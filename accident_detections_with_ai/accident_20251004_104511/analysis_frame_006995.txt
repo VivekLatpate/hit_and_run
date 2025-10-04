@@ -1,0 +1,51 @@
+ACCIDENT FRAME ANALYSIS
+==================================================
+Frame Number: 6995
+Detection Time: 2025-10-04 10:45:11.652653
+Image File: frame_006995_20251004_104511.jpg
+
+==================================================
+GEMINI AI ANALYSIS:
+==================================================
+This analysis is based on a highly blurry image displayed on a phone screen, which is itself part of a larger photograph. The severe lack of clarity significantly limits the ability to provide precise details for many aspects.
+
+---
+
+**Accident Scene Analysis (Based on Phone Screen Content)**
+
+**Date of Image Capture:** 2025-10-04
+**Time of Image Capture:** 10:45:11
+**Frame Number:** 6995
+
+---
+
+1.  **Number of vehicles involved:**
+    *   Only one vehicle, identified as a truck, is visible on the phone screen. Due to the limited field of view and blurriness, it is impossible to determine if other vehicles were involved.
+
+2.  **Vehicle types:**
+    *   One truck is clearly visible and explicitly identified by the text overlay "Truck driver sees gps" on the phone screen. It appears to be a heavy-duty truck, possibly a freight or delivery vehicle.
+
+3.  **Vehicle colors:**
+    *   The truck appears to be primarily blue and white, with some orange or reddish-brown accents visible on parts of its frame or trim.
+
+4.  **License plate numbers (if visible):**
+    *   A license plate area is visible at the front of the truck (top part of the image on the screen), but the characters are completely illegible due to the extreme blurriness. Some faint text like "RUIS UK" or similar might be present above the plate area, but it cannot be confirmed.
+
+5.  **Vehicle damage assessment:**
+    *   Due to the low resolution and blurriness of the image on the phone screen, it is extremely difficult to conclusively assess damage. No obvious, severe damage like crumpled metal, shattered glass, or significant dents are discernible. There *might* be some minor misalignment or slight damage to the front bumper or lower bodywork on the right side of the truck (viewer's left side of the truck), but this is highly speculative given the image quality.
+
+6.  **Accident severity (minor, moderate, severe):**
+    *   Cannot be determined. Without clear visibility of vehicle damage, impact points, or involvement of other vehicles/objects, assessing severity is impossible. The image itself does not explicitly confirm an accident, though the request implies one.
+
+7.  **Road conditions:**
+    *   The road surface immediately beneath the truck's wheels is barely visible and appears dry. However, this observation is highly uncertain due to the extreme blur.
+
+8.  **Weather conditions (if visible):**
+    *   Weather conditions are not discernible from the image. The background suggests an outdoor, possibly daytime setting with trees/foliage, but no information regarding rain, fog, or snow can be gathered.
+
+9.  **Any emergency vehicles present:**
+    *   No emergency vehicles (police, ambulance, fire) are visible in the image on the phone screen.
+
+10. **Recommended emergency response level:**
+    *   Based solely on the provided blurry image, there is insufficient information to recommend a specific emergency response level. Without clear evidence of an actual accident, damage, injuries, or road obstruction, a recommendation cannot be made. If an accident did occur, the response level would depend on factors not visible here, such as injuries, fluid spills, or road blockage.
+==================================================

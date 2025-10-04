@@ -1,0 +1,14 @@
+ACCIDENT DETECTION REPORT
+==================================================
+Detection Time: 2025-10-04 10:19:38.617009
+Frame Number: 1683
+Frames Captured: 4
+Model Used: D:\camera\Accident-Detection-Web-App\server\models\i1-yolov8s.pt
+
+Saved Files:
+1. frame_001680_20251004_101938.jpg
+2. frame_001681_20251004_101938.jpg
+3. frame_001682_20251004_101938.jpg
+4. frame_001683_20251004_101938.jpg
+
+==================================================

@@ -1,0 +1,150 @@
+COMPREHENSIVE VIDEO ACCIDENT DETECTION REPORT
+============================================================
+Video File: C:/Users/vivek/Downloads/WhatsApp Video 2025-10-04 at 10.52.58_9497c354.mp4
+Analysis Time: 2025-10-04 10:57:25.296611
+Total Frames: 302
+Frames Processed: 302
+Video Duration: 5.03 seconds
+FPS: 60.00
+Accidents Detected: 7
+Detection Rate: 2.32%
+Model Used: D:\camera\Accident-Detection-Web-App\server\models\i1-yolov8s.pt
+AI Analysis: Gemini 2.5 Flash
+
+============================================================
+ACCIDENT SUMMARY:
+============================================================
+
+ACCIDENT #1:
+------------------------------
+Frame: 120
+Time: 2.00s
+Confidence: 0.55
+Frame File: accident_frame_000120_20251004_105433.jpg
+Analysis File: analysis_frame_000120.txt
+
+AI Analysis Preview:
+Here is a detailed analysis of video frame #120, taken at 2.00s:
+
+**Accident Analysis Report - Video Frame #120 (2.00s)**
+
+**1. Number of vehicles involved:**
+*   Two (2) vehicles are directly involved in the collision shown: one SUV/car and one motorcycle.
+*   A third vehicle (dark sedan) is visibl...
+------------------------------
+
+ACCIDENT #2:
+------------------------------
+Frame: 165
+Time: 2.75s
+Confidence: 0.55
+Frame File: accident_frame_000165_20251004_105433.jpg
+Analysis File: analysis_frame_000165.txt
+
+AI Analysis Preview:
+Here is a detailed analysis of video frame #165 taken at 2.75s:
+
+**Accident Analysis Report**
+
+**1. Number of Vehicles Involved:**
+*   Two vehicles are clearly involved in the incident.
+
+**2. Vehicle Types:**
+*   **Vehicle 1 (Main accident):** Appears to be a white sedan or small hatchback/crossover...
+------------------------------
+
+ACCIDENT #3:
+------------------------------
+Frame: 170
+Time: 2.83s
+Confidence: 0.63
+Frame File: accident_frame_000170_20251004_105433.jpg
+Analysis File: analysis_frame_000170.txt
+
+AI Analysis Preview:
+Here is a detailed analysis of video frame #170 taken at 2.83s:
+
+**Accident Analysis**
+
+1.  **Number of vehicles involved:**
+    Two (2) vehicles are clearly involved in the accident.
+
+2.  **Vehicle types:**
+    *   Vehicle 1 (on the left): Appears to be a White/Silver SUV or Crossover.
+    *   Vehi...
+------------------------------
+
+ACCIDENT #4:
+------------------------------
+Frame: 180
+Time: 3.00s
+Confidence: 0.62
+Frame File: accident_frame_000180_20251004_105433.jpg
+Analysis File: analysis_frame_000180.txt
+
+AI Analysis Preview:
+Here is a detailed analysis of video frame #180, taken at 3.00s:
+
+**Accident Analysis Report - Frame #180 (3.00s)**
+
+1.  **Number of vehicles involved:**
+    *   **Three (3) vehicles** are visibly involved or affected in the scene.
+        *   One light-colored SUV/hatchback on the left side of the ...
+------------------------------
+
+ACCIDENT #5:
+------------------------------
+Frame: 185
+Time: 3.08s
+Confidence: 0.68
+Frame File: accident_frame_000185_20251004_105433.jpg
+Analysis File: analysis_frame_000185.txt
+
+AI Analysis Preview:
+**Detailed Accident Analysis - Video Frame #185 (3.08s)**
+
+It is important to note that the visual characteristics (graphics, unnatural debris, general environment, and the confidence score overlay "ACCIDENT: 0.68") strongly suggest this image may be from a video game or simulation rather than a rea...
+------------------------------
+
+ACCIDENT #6:
+------------------------------
+Frame: 195
+Time: 3.25s
+Confidence: 0.62
+Frame File: accident_frame_000195_20251004_105433.jpg
+Analysis File: analysis_frame_000195.txt
+
+AI Analysis Preview:
+Here's a detailed analysis of the video frame #195 taken at 3.25s:
+
+### **Accident Analysis Report - Frame #195 (3.25s)**
+
+**1. Number of vehicles involved**
+Three (3) vehicles are clearly involved in this accident.
+
+**2. Vehicle types**
+*   **Vehicle 1 (White/Light-colored):** Appears to be a passe...
+------------------------------
+
+ACCIDENT #7:
+------------------------------
+Frame: 200
+Time: 3.33s
+Confidence: 0.63
+Frame File: accident_frame_000200_20251004_105433.jpg
+Analysis File: analysis_frame_000200.txt
+
+AI Analysis Preview:
+Here's a detailed analysis of video frame #200, taken at 3.33s:
+
+**Accident Analysis**
+
+1.  **Number of vehicles involved:** Two (2) vehicles are involved in the accident.
+
+2.  **Vehicle types:**
+    *   One (1) Motorcycle
+    *   One (1) SUV (Sport Utility Vehicle)
+
+3.  **Vehicle colors:**
+    *   ...
+------------------------------

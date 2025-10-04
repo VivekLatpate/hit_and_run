@@ -1,0 +1,61 @@
+ACCIDENT FRAME ANALYSIS
+==================================================
+Frame Number: 120
+Time in Video: 2.00s
+Detection Time: 2025-10-04 10:54:35.346367
+Confidence: 0.55
+Image File: accident_frame_000120_20251004_105433.jpg
+
+==================================================
+GEMINI AI ANALYSIS:
+==================================================
+Here is a detailed analysis of video frame #120, taken at 2.00s:
+
+**Accident Analysis Report - Video Frame #120 (2.00s)**
+
+**1. Number of vehicles involved:**
+*   Two (2) vehicles are directly involved in the collision shown: one SUV/car and one motorcycle.
+*   A third vehicle (dark sedan) is visible further down the road, but does not appear to be directly involved in this specific collision.
+
+**2. Vehicle types:**
+*   Vehicle 1: Compact SUV or Crossover.
+*   Vehicle 2: Motorcycle.
+*   Vehicle 3 (uninvolved, in distance): Sedan/Car.
+
+**3. Vehicle colors:**
+*   SUV: White or Light Silver.
+*   Motorcycle: Predominantly dark (likely black or dark grey) with some orange/brown elements, possibly from the engine or fairing.
+*   Uninvolved Car (in distance): Dark, possibly black or dark blue.
+
+**4. License plate numbers (if visible):**
+*   SUV: The front license plate area is visible but the plate itself is either missing, obscured, or not clearly readable. No discernible characters.
+*   Motorcycle: Not visible due to its orientation and damage.
+*   Uninvolved Car: Too far and blurry to read.
+
+**5. Vehicle damage assessment:**
+*   **SUV:** Visible significant damage to the front bumper and hood, particularly on the driver's side front. Debris is scattered from the impact point, and the driver's side headlight appears damaged or missing.
+*   **Motorcycle:** Catastrophically damaged. The motorcycle is on its side, fragmented, with parts scattered across the road surface. The front wheel assembly appears separated or severely mangled. This indicates a high-impact collision.
+*   **Human Involvement:** A person is clearly visible lying on the ground next to the debris, highly indicative of severe injury or fatality to the motorcyclist.
+
+**6. Accident severity:**
+*   Based on the extensive damage to the motorcycle, the significant front-end damage to the SUV, the considerable debris field, and critically, the presence of a person lying motionless on the ground, this is assessed as a **Severe Accident**. There is a very high probability of critical injuries or fatalities.
+
+**7. Road conditions:**
+*   The road appears to be asphalt, dry, and in good condition.
+*   It is a two-lane road with clear double solid yellow lines marking the center, indicating no passing. A solid white line defines the right shoulder.
+*   There is a yellow and black striped barrier/guardrail along the left side of the road.
+
+**8. Weather conditions (if visible):**
+*   Clear skies, bright sunlight. No visible clouds, rain, snow, fog, or other adverse weather conditions. The weather appears clear and dry.
+
+**9. Any emergency vehicles present:**
+*   No emergency vehicles (police, ambulance, fire) are visible in this frame.
+
+**10. Recommended emergency response level:**
+*   **Level 1 (Highest Priority / Full Emergency Response)**.
+    *   Immediate dispatch of multiple **Ambulance/Paramedic units** for critical injury assessment and transport.
+    *   Immediate dispatch of **Police units** for traffic control, accident investigation, and scene security.
+    *   Immediate dispatch of **Fire Department/Rescue units** for potential extrication (if more persons were involved/trapped, though not apparent here), spill containment (e.g., fuel from motorcycle), and overall scene safety.
+    *   Consideration for a **medical helicopter** if the location is remote or injuries are life-threatening and require rapid transport to a trauma center.
+    *   Traffic management and potential road closure/diversion will be necessary due to debris and investigation.
+==================================================

@@ -1,0 +1,55 @@
+ACCIDENT FRAME ANALYSIS
+==================================================
+Frame Number: 195
+Time in Video: 3.25s
+Detection Time: 2025-10-04 10:56:37.021235
+Confidence: 0.62
+Image File: accident_frame_000195_20251004_105433.jpg
+
+==================================================
+GEMINI AI ANALYSIS:
+==================================================
+Here's a detailed analysis of the video frame #195 taken at 3.25s:
+
+### **Accident Analysis Report - Frame #195 (3.25s)**
+
+**1. Number of vehicles involved**
+Three (3) vehicles are clearly involved in this accident.
+
+**2. Vehicle types**
+*   **Vehicle 1 (White/Light-colored):** Appears to be a passenger SUV or large sedan, currently in a severe rollover or side-impact state.
+*   **Vehicle 2 (Dark Grey/Black):** Appears to be a passenger SUV or large sedan, severely entangled with Vehicle 1.
+*   **Vehicle 3 (White SUV/Crossover):** A distinct white SUV/crossover, positioned on the left side of the road, separate from the primary entanglement but showing substantial damage.
+
+**3. Vehicle colors**
+*   **Vehicle 1:** White or very light grey.
+*   **Vehicle 2:** Dark grey or black.
+*   **Vehicle 3:** White.
+
+**4. License plate numbers**
+License plate numbers are not visible or legible on any of the vehicles due to the angles, severe damage, and resolution.
+
+**5. Vehicle damage assessment**
+*   **Vehicle 1 (White/Light-colored):** Suffered catastrophic damage. The vehicle is severely deformed, appears to be on its side or roof, and is structurally compromised. Extensive body panel crumpling, roof collapse, and likely interior damage are evident.
+*   **Vehicle 2 (Dark Grey/Black):** Suffered catastrophic damage. It is severely crushed and entangled with Vehicle 1. The front end, side, and potentially the entire chassis are heavily damaged, indicating a high-energy impact and complete structural failure.
+*   **Vehicle 3 (White SUV/Crossover):** Sustained significant front-end damage. The bumper is dislodged or torn off, the grille is destroyed, and the hood is severely crumpled. The front lights appear broken, and there's likely damage to the engine bay area.
+
+**6. Accident severity**
+**Severe.** The collision involves two vehicles with catastrophic damage and a third with significant front-end damage. The entanglement and extreme deformation of Vehicles 1 and 2 suggest a high-impact event with a very high probability of severe injuries, critical trauma, or fatalities to occupants.
+
+**7. Road conditions**
+The road is an asphalt surface with clearly visible double yellow lines marking the center and a white solid line on the right shoulder. The road appears dry. There is significant debris (vehicle parts, potential fluid spills) scattered across the roadway resulting from the collision, obstructing traffic flow. Concrete barriers are visible on the left side of the road.
+
+**8. Weather conditions (if visible)**
+The weather appears to be clear and sunny. The sky is bright blue with no visible clouds, indicating good visibility during daytime hours.
+
+**9. Any emergency vehicles present**
+No emergency vehicles (police, ambulance, fire department) are visible in this frame.
+
+**10. Recommended emergency response level**
+**Critical / Level 1 Emergency Response.**
+*   **Immediate dispatch of all essential emergency services:** Police, Fire Department (for potential extrication, fire suppression, hazardous material assessment like fuel leaks), and multiple Ambulance/Paramedic units are urgently required due to the severity of the damage and high likelihood of severe injuries or fatalities.
+*   **Traffic management:** The roadway is obstructed, requiring immediate traffic control, potential road closure, and diversion to ensure safety for emergency responders and prevent secondary accidents.
+*   **Hazard assessment:** Fire and rescue personnel must prioritize assessing for trapped occupants, potential fire hazards, and any spilled hazardous materials.
+*   **Mass Casualty Incident (MCI) consideration:** Given the number of vehicles and severe damage, preparations for a potential MCI should be considered.
+==================================================

@@ -1,0 +1,16 @@
+ENHANCED COMPREHENSIVE VIDEO ACCIDENT DETECTION REPORT
+======================================================================
+Video File: C:/Users/vivek/Downloads/Recording 2025-10-04 112151.mp4
+Analysis Time: 2025-10-04 11:22:31.081347
+Total Frames: 161
+Frames Processed: 161
+Video Duration: 5.34 seconds
+FPS: 30.15
+Accidents Detected: 0
+Detection Rate: 0.00%
+Model Used: D:\camera\Accident-Detection-Web-App\server\models\i1-yolov8s.pt
+AI Analysis: Gemini 2.5 Flash Enhanced
+
+======================================================================
+ENHANCED ACCIDENT SUMMARY:
+======================================================================

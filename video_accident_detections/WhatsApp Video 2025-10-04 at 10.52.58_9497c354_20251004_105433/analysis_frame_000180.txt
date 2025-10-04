@@ -1,0 +1,68 @@
+ACCIDENT FRAME ANALYSIS
+==================================================
+Frame Number: 180
+Time in Video: 3.00s
+Detection Time: 2025-10-04 10:55:36.321889
+Confidence: 0.62
+Image File: accident_frame_000180_20251004_105433.jpg
+
+==================================================
+GEMINI AI ANALYSIS:
+==================================================
+Here is a detailed analysis of video frame #180, taken at 3.00s:
+
+**Accident Analysis Report - Frame #180 (3.00s)**
+
+1.  **Number of vehicles involved:**
+    *   **Three (3) vehicles** are visibly involved or affected in the scene.
+        *   One light-colored SUV/hatchback on the left side of the road.
+        *   Two additional vehicles are at the primary impact zone, completely mangled and intertwined. One appears dark-colored, and the other is white/light-colored.
+    *   Additionally, significant vehicle debris is seen airborne, suggesting extreme force of impact.
+
+2.  **Vehicle types:**
+    *   **Vehicle 1 (left):** Appears to be a compact SUV or crossover, possibly a Dacia Duster or similar model.
+    *   **Vehicle 2 (dark, central wreckage):** Indistinguishable due to catastrophic damage, but was likely a passenger car (sedan or hatchback).
+    *   **Vehicle 3 (white, central wreckage):** Indistinguishable due to catastrophic damage, but was likely a passenger car (compact car or sedan).
+    *   **Aerial Debris:** Appears to be large fragments of a vehicle, consistent with a passenger car.
+
+3.  **Vehicle colors:**
+    *   **Vehicle 1 (left):** Light grey or silver, with some orange/yellow elements visible on the damaged front bumper/grille.
+    *   **Vehicle 2 (dark, central wreckage):** Dark grey or black.
+    *   **Vehicle 3 (white, central wreckage):** White or very light grey.
+    *   **Aerial Debris:** Dark, consistent with the dark-colored vehicle.
+
+4.  **License plate numbers (if visible):**
+    *   The front license plate area of Vehicle 1 (left) is visible, but the characters are unreadable due to blurriness and distortion.
+    *   No license plates are visible on the severely damaged central wreckage (Vehicles 2 & 3) due to their orientation and destruction.
+
+5.  **Vehicle damage assessment:**
+    *   **Vehicle 1 (left):** Shows significant front-end damage, particularly on the driver's side, with the bumper and fender crushed, and internal components exposed (indicated by orange/yellow fragments). The vehicle appears to be stopped or parked on the side of the road, potentially damaged by the primary collision or a secondary impact/debris.
+    *   **Vehicle 2 & 3 (central wreckage):** Both vehicles have suffered catastrophic and extreme damage. They are completely mangled, crushed, and intertwined, making it almost impossible to discern their original forms. Extensive structural compromise, tearing of metal, and separation of large parts are evident. This indicates a high-energy collision.
+    *   **Aerial Debris:** The presence of large, dark fragments airborne above the wreckage further emphasizes the severity of the impact, suggesting vehicle disintegration.
+
+6.  **Accident severity (minor, moderate, severe):**
+    *   **Severe.** The catastrophic damage to multiple vehicles, the complete entanglement and disfigurement of two vehicles, and the presence of airborne debris unequivocally indicate a severe, high-impact collision with a very high probability of serious injuries or fatalities.
+
+7.  **Road conditions:**
+    *   The road appears to be a paved asphalt surface, generally dry.
+    *   Clear double yellow lines mark the center of the road, and a single white line borders the right shoulder.
+    *   The road surface around the central wreckage is littered with significant debris, including small dark fragments (likely glass, plastic, and metal) and larger vehicle parts.
+    *   Road shoulders are unpaved, consisting of dry earth, sand, and sparse vegetation, consistent with a rural or semi-arid environment.
+
+8.  **Weather conditions (if visible):**
+    *   Fair weather conditions are observed.
+    *   The sky is mostly clear with scattered white clouds.
+    *   Bright daylight conditions prevail, indicating good visibility.
+    *   No rain, fog, or other adverse weather phenomena are visible.
+
+9.  **Any emergency vehicles present:**
+    *   No emergency vehicles (police, ambulance, or fire trucks) are visible in this frame. The scene appears to be captured either immediately after the incident or before emergency services have arrived.
+
+10. **Recommended emergency response level:**
+    *   **Highest Level / Full Emergency Response.**
+        *   **Immediate dispatch of multiple Advanced Life Support (ALS) ambulance units and paramedics** due to the high probability of severe, life-threatening injuries or fatalities.
+        *   **Immediate dispatch of Fire and Rescue services** for extrication of trapped occupants, scene safety (e.g., fuel spills, fire suppression, debris management), and potential hazmat assessment.
+        *   **Law Enforcement (Police) response** for accident investigation, traffic control, scene security, and reporting.
+        *   **Consideration for an air ambulance (helicopter) dispatch** for rapid transport to a trauma center, especially given the potentially remote location implied by the surrounding landscape.
+        *   Road closure and significant traffic diversion measures will be necessary.
+==================================================

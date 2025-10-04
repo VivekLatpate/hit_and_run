@@ -1,0 +1,52 @@
+COMPREHENSIVE ACCIDENT DETECTION REPORT
+============================================================
+Detection Time: 2025-10-04 10:32:38.804474
+Frame Number: 1230
+Frames Captured: 6
+Model Used: D:\camera\Accident-Detection-Web-App\server\models\i1-yolov8s.pt
+AI Analysis: Gemini 1.5 Flash
+Analysis Timestamp: 2025-10-04 10:32:43.263772
+
+============================================================
+SAVED FILES:
+============================================================
+1. frame_001225_20251004_103238.jpg
+2. frame_001226_20251004_103238.jpg
+3. frame_001227_20251004_103238.jpg
+4. frame_001228_20251004_103238.jpg
+5. frame_001229_20251004_103238.jpg
+6. frame_001230_20251004_103238.jpg
+
+============================================================
+AI ANALYSIS SUMMARY:
+============================================================
+
+FRAME 1225 ANALYSIS:
+----------------------------------------
+Analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+----------------------------------------
+
+FRAME 1226 ANALYSIS:
+----------------------------------------
+Analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+----------------------------------------
+
+FRAME 1227 ANALYSIS:
+----------------------------------------
+Analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+----------------------------------------
+
+FRAME 1228 ANALYSIS:
+----------------------------------------
+Analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+----------------------------------------
+
+FRAME 1229 ANALYSIS:
+----------------------------------------
+Analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+----------------------------------------
+
+FRAME 1230 ANALYSIS:
+----------------------------------------
+Analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+----------------------------------------

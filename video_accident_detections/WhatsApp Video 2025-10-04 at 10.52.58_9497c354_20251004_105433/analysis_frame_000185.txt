@@ -1,0 +1,57 @@
+ACCIDENT FRAME ANALYSIS
+==================================================
+Frame Number: 185
+Time in Video: 3.08s
+Detection Time: 2025-10-04 10:56:10.995821
+Confidence: 0.68
+Image File: accident_frame_000185_20251004_105433.jpg
+
+==================================================
+GEMINI AI ANALYSIS:
+==================================================
+**Detailed Accident Analysis - Video Frame #185 (3.08s)**
+
+It is important to note that the visual characteristics (graphics, unnatural debris, general environment, and the confidence score overlay "ACCIDENT: 0.68") strongly suggest this image may be from a video game or simulation rather than a real-world accident. Therefore, the assessment of damage and severity is based on the visual representation within this simulated context.
+
+---
+
+**1. Number of vehicles involved:**
+*   Two (2) vehicles are directly involved in the depicted scene.
+
+**2. Vehicle types:**
+*   **Vehicle 1 (left):** Appears to be a white compact SUV or crossover, positioned partially off the road and against a barrier.
+*   **Vehicle 2 (center):** A severely damaged and fragmented vehicle, airborne and in a state of extreme disfigurement, likely a compact car or another SUV based on its original perceived size. It is difficult to ascertain the exact type due to the catastrophic damage.
+
+**3. Vehicle colors:**
+*   **Vehicle 1 (left):** Predominantly white, with dark accents (e.g., front bumper, window frames, roof rails).
+*   **Vehicle 2 (center):** Appears to have been a mix of white and dark grey/black, now heavily distorted and fragmented.
+
+**4. License plate numbers (if visible):**
+*   **Vehicle 1 (left):** No visible license plate number; the front plate area is either blank or unreadable due to resolution/distance.
+*   **Vehicle 2 (center):** Not visible due to extreme damage and orientation.
+
+**5. Vehicle damage assessment:**
+*   **Vehicle 1 (left):** Sustained significant front-end damage. The front bumper is crumpled and partially detached, revealing internal components. Damage extends to the grille and potentially the hood.
+*   **Vehicle 2 (center):** Catastrophic damage. The vehicle is airborne, appears to be in the process of disintegrating or severely deforming, with large pieces of debris scattered around and emanating from it. It is on its side/roof, indicating a violent impact and rollover.
+
+**6. Accident severity:**
+*   **Severe.** The catastrophic damage to one vehicle, including fragmentation and airborne status, along with significant damage to the second vehicle, indicates a high-impact collision with extreme forces.
+
+**7. Road conditions:**
+*   The road is a paved asphalt surface with clearly visible double yellow lines (indicating a no-passing zone or dividing opposing traffic lanes) and a solid white line on the right shoulder.
+*   The road surface appears dry.
+*   There is considerable debris (small dark fragments) scattered across the road surface, particularly around the location of the severely damaged vehicle.
+
+**8. Weather conditions (if visible):**
+*   Clear and sunny daylight conditions. The sky is bright with no visible clouds, rain, fog, or other adverse weather elements.
+
+**9. Any emergency vehicles present:**
+*   None visible in the frame.
+
+**10. Recommended emergency response level:**
+*   **Immediate and comprehensive emergency response (High Priority).** Given the severe nature of the accident, catastrophic vehicle damage, and the likelihood of serious injuries or fatalities (based on real-world outcomes for such impacts), the following services would be required:
+    *   **Police:** For traffic control, accident investigation, and securing the scene.
+    *   **Fire/Rescue:** For potential extrication of occupants, hazard control (e.g., fuel leaks, fire), and scene safety.
+    *   **Emergency Medical Services (EMS):** For immediate medical assessment, treatment, and transport of any injured individuals.
+    *   **Towing/Recovery:** To clear the heavily damaged vehicles and debris from the roadway.
+==================================================

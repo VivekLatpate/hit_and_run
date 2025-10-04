@@ -1,0 +1,55 @@
+ACCIDENT FRAME ANALYSIS
+==================================================
+Frame Number: 165
+Time in Video: 2.75s
+Detection Time: 2025-10-04 10:54:56.646356
+Confidence: 0.55
+Image File: accident_frame_000165_20251004_105433.jpg
+
+==================================================
+GEMINI AI ANALYSIS:
+==================================================
+Here is a detailed analysis of video frame #165 taken at 2.75s:
+
+**Accident Analysis Report**
+
+**1. Number of Vehicles Involved:**
+*   Two vehicles are clearly involved in the incident.
+
+**2. Vehicle Types:**
+*   **Vehicle 1 (Main accident):** Appears to be a white sedan or small hatchback/crossover. It is in a state of severe impact or rollover.
+*   **Vehicle 2 (On left side):** Appears to be a white compact SUV or crossover (resembles a Volkswagen T-Roc or similar model). It is partially off the road on the left shoulder.
+
+**3. Vehicle Colors:**
+*   Both involved vehicles are white.
+
+**4. License Plate Numbers:**
+*   No legible license plate numbers are visible on either vehicle due to the dynamic state of the main accident vehicle, its angle, and the distance/resolution for the other vehicle.
+
+**5. Vehicle Damage Assessment:**
+*   **Vehicle 1 (White Sedan/Hatchback/Crossover):** This vehicle is undergoing catastrophic damage. It is depicted in mid-rollover or a severe impact, with its body panels heavily deformed, crumpled, and potentially detached. Significant debris is scattered across the roadway around this vehicle, indicative of a high-energy collision. The rear of the vehicle is visible, showing extensive structural compromise.
+*   **Vehicle 2 (White SUV/Crossover):** This vehicle shows substantial front-end damage, particularly on the driver's side. The front bumper, grille, and possibly the fender and hood appear to be crushed or severely impacted. It is stationary, seemingly having come to rest on the shoulder after the collision.
+
+**6. Accident Severity:**
+*   The accident is classified as **Severe**. The primary vehicle is depicted in a violent impact/rollover state with extensive structural damage, and the amount of debris suggests a high-force event. Such an incident carries a very high probability of serious injuries or fatalities for occupants. The secondary vehicle also has significant damage.
+
+**7. Road Conditions:**
+*   The road is an asphalt surface, appearing dry and in generally good condition prior to the accident.
+*   It features double yellow lines indicating two-way traffic flow and a solid white line on the right shoulder.
+*   There is a considerable amount of dark debris scattered on the road surface in the immediate vicinity of the main accident, consistent with vehicle disintegration during impact.
+*   The surrounding area is a dry, semi-arid environment with sparse vegetation and some distant structures (e.g., a tall lattice tower).
+
+**8. Weather Conditions:**
+*   Weather conditions appear to be clear and sunny. The sky is blue with no visible clouds, and there are distinct shadows, indicating daylight. No precipitation, fog, or other adverse weather is observed.
+
+**9. Emergency Vehicles Present:**
+*   No emergency vehicles (police, ambulance, fire department) are visible in this frame.
+
+**10. Recommended Emergency Response Level:**
+*   Given the severe nature of the accident, extensive vehicle damage, and the high potential for serious injuries or fatalities, a **Level 3 (Full Emergency Response)** is strongly recommended. This requires the immediate deployment of:
+    *   **Multiple Ambulance/EMS units:** To assess and treat potential multiple casualties with critical injuries.
+    *   **Police:** For accident investigation, traffic control, scene security, and reporting.
+    *   **Fire Department:** For potential extrication of trapped occupants, fire suppression, and managing potential fuel spills or other hazardous materials.
+    *   **Roadside assistance/Tow trucks:** To clear the damaged vehicles and debris once the scene is secured and investigations are complete.
+    *   **Traffic management/Road maintenance:** To clear debris and restore road safety.
+==================================================

@@ -1,0 +1,50 @@
+ACCIDENT FRAME ANALYSIS
+==================================================
+Frame Number: 6998
+Detection Time: 2025-10-04 10:45:11.652653
+Image File: frame_006998_20251004_104511.jpg
+
+==================================================
+GEMINI AI ANALYSIS:
+==================================================
+Based on the provided image, it is important to clarify that this is not an accident scene image directly. The image shows a person holding a smartphone, and the smartphone screen displays a blurry image of a vehicle, along with text. The analysis below pertains only to what can be discerned from the image displayed on the phone screen, which is heavily blurred.
+
+---
+
+### Accident Scene Analysis
+
+**Image Reference:** Frame 6998, taken 2025-10-04 10:45:11
+
+**1. Number of vehicles involved:**
+    *   Potentially two vehicles are visible in the blurred image on the phone screen. One is clearly a truck, and a second, white, blurred vehicle is partially visible behind it. It is unclear if both are involved in an incident or if one is merely in the background.
+
+**2. Vehicle types:**
+    *   **Vehicle 1:** A truck (indicated by its structure and the text "Truck driver soo gya 🚚" with a truck emoji).
+    *   **Vehicle 2:** A smaller, white vehicle (type indiscernible due to blur).
+
+**3. Vehicle colors:**
+    *   **Truck:** Appears to be predominantly blue and white.
+    *   **Second Vehicle:** Appears to be white.
+
+**4. License plate numbers (if visible):**
+    *   License plate numbers are not visible due to the extreme blurriness of the image on the phone screen.
+
+**5. Vehicle damage assessment:**
+    *   No visible damage can be assessed on either vehicle due to the significant blur. The image does not clearly depict an accident *outcome*.
+
+**6. Accident severity (minor, moderate, severe):**
+    *   Cannot be determined. The image on the phone screen does not clearly show an accident or any damage. The text "Truck driver soo gya" (translates to "Truck driver fell asleep") suggests a dangerous situation or potential incident, but the visual information does not confirm an accident or its severity.
+
+**7. Road conditions:**
+    *   Road conditions are not discernible from the blurred image on the phone screen.
+
+**8. Weather conditions (if visible):**
+    *   Weather conditions are not discernible from the blurred image on the phone screen.
+
+**9. Any emergency vehicles present:**
+    *   No emergency vehicles are visible in the image on the phone screen.
+
+**10. Recommended emergency response level:**
+    *   **Cannot be determined from the visual evidence alone.** While the text "Truck driver fell asleep" suggests a critical safety concern, the image itself does not show an accident or injuries. If the text implies a recent event where a driver indeed fell asleep and an accident *occurred* or is imminent, a *High* emergency response (police, medical, and possibly fire if there's a risk of spillage or entrapment) would be warranted. However, based *strictly* on the visual information of the blurred image, no accident is confirmed.
+    *   **Recommendation based on potential interpretation of text:** If this image is reporting an actual event where a truck driver fell asleep, it necessitates immediate investigation, as a driver falling asleep at the wheel is a severe hazard. This would warrant contacting relevant authorities to investigate the driver's condition and the vehicle's status.
+==================================================

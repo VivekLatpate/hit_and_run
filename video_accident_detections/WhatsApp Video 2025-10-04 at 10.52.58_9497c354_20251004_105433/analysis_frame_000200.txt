@@ -1,0 +1,47 @@
+ACCIDENT FRAME ANALYSIS
+==================================================
+Frame Number: 200
+Time in Video: 3.33s
+Detection Time: 2025-10-04 10:57:06.282180
+Confidence: 0.63
+Image File: accident_frame_000200_20251004_105433.jpg
+
+==================================================
+GEMINI AI ANALYSIS:
+==================================================
+Here's a detailed analysis of video frame #200, taken at 3.33s:
+
+**Accident Analysis**
+
+1.  **Number of vehicles involved:** Two (2) vehicles are involved in the accident.
+
+2.  **Vehicle types:**
+    *   One (1) Motorcycle
+    *   One (1) SUV (Sport Utility Vehicle)
+
+3.  **Vehicle colors:**
+    *   Motorcycle: Appears to be a combination of dark gray/black and white.
+    *   SUV: White.
+
+4.  **License plate numbers (if visible):**
+    *   Motorcycle: A license plate is partially visible on the rear of the motorcycle. The characters are extremely blurry, but could possibly be interpreted as "0T31R" or "OTB2B", however, definitive identification is not possible due to low resolution and angle.
+    *   SUV: The front license plate is visible but completely illegible due to resolution and angle.
+
+5.  **Vehicle damage assessment:**
+    *   **Motorcycle:** The motorcycle is severely damaged, lying on its left side and partially overturned in the middle of the lane. Debris is scattered around it. There's a bright orange/red element visible near the underside of the motorcycle, which could indicate sparks, flames, or a severely damaged/exposed component.
+    *   **SUV:** The white SUV shows significant damage to its front end, specifically the driver's side bumper and fender area. The vehicle is pulled off to the right side of the road, partially on the dirt shoulder.
+
+6.  **Accident severity (minor, moderate, severe):** Based on the severe damage to both vehicles, the motorcycle being overturned, scattered debris, and the potential presence of fire/sparks, this is classified as a **Severe** accident. There is a high probability of injuries to the occupants of both vehicles.
+
+7.  **Road conditions:** The road is an asphalt surface, appearing dry and in good condition. There are clear double yellow lines indicating a no-passing zone and a solid white line on the right shoulder. Accident debris is visible on the road surface near the motorcycle.
+
+8.  **Weather conditions (if visible):** The sky is clear and blue, indicating sunny weather with good visibility. No adverse weather conditions are visible.
+
+9.  **Any emergency vehicles present:** No emergency vehicles (police, ambulance, fire) are visible in this frame.
+
+10. **Recommended emergency response level:** Given the severity of the accident (heavy damage, potential for serious injuries, overturned motorcycle, possible fire hazard), a **Level 1 (Highest Priority) emergency response** is strongly recommended. This should include:
+    *   **Police:** For accident investigation, traffic control, and safety.
+    *   **Ambulance/EMS:** For immediate medical assessment and transport of potentially injured individuals.
+    *   **Fire Department:** To assess and mitigate any fire hazards (due to the orange element near the motorcycle) and assist with scene safety.
+    *   **Tow trucks:** To clear the damaged vehicles and debris from the roadway.
+==================================================

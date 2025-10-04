@@ -1,0 +1,52 @@
+ACCIDENT FRAME ANALYSIS
+==================================================
+Frame Number: 285
+Detection Time: 2025-10-04 10:37:11.785045
+Image File: frame_000285_20251004_103711.jpg
+
+==================================================
+GEMINI AI ANALYSIS:
+==================================================
+This image displays a person holding a smartphone, and the "accident scene" in question is an image shown on the phone's screen. The visual style, vehicles, and environment strongly suggest that this is a simulated accident from a video game (likely Grand Theft Auto V, given the characteristic desert landscape and vehicle models). Therefore, the analysis will describe the *simulated* accident as it appears on the screen, rather than a real-world event.
+
+---
+
+**Accident Scene Analysis (Simulated - from Video Game):**
+
+1.  **Number of vehicles involved:**
+    *   Two vehicles are directly involved in the visible collision. A third dark-colored vehicle is further up the road, but its involvement in this specific impact is unclear.
+
+2.  **Vehicle types:**
+    *   One vehicle is a light-colored (possibly silver or light blue) SUV or crossover car.
+    *   The second involved entity appears to be a person on a motorcycle, with the person seemingly having been ejected from the bike.
+
+3.  **Vehicle colors:**
+    *   The car is light blue/silver.
+    *   The motorcycle/person appears to be primarily dark, possibly black, with elements of brown/orange visible on the person or debris.
+
+4.  **License plate numbers:**
+    *   License plate numbers are not visible and are not discernible from this image quality within the game simulation.
+
+5.  **Vehicle damage assessment:**
+    *   **Car:** The car shows significant front-end damage, with crumpled metal and possibly deployed airbags (though difficult to confirm from the resolution). It appears to be off the road, having possibly swerved or been impacted.
+    *   **Motorcycle/Person:** The person is violently ejected from the motorcycle, indicating a high-impact collision. Damage to the motorcycle itself is obscured but implied to be severe given the impact.
+
+6.  **Accident severity:**
+    *   Based on the visible impact and the condition of the vehicles/occupant, the simulated accident appears to be **severe**.
+
+7.  **Road conditions:**
+    *   The road appears to be asphalt, dry, and in a rural or desert-like environment. It features double yellow lines, indicating a two-lane road.
+
+8.  **Weather conditions:**
+    *   The simulated scene depicts clear and sunny weather conditions.
+
+9.  **Emergency vehicles present:**
+    *   No emergency vehicles (police, ambulance, fire) are visible in the simulated scene at the time of this screenshot.
+
+10. **Recommended emergency response level:**
+    *   Since this is a simulated incident from a video game, **no real-world emergency response is required or recommended.**
+    *   However, if this were a real-world incident with the visible severity (severe vehicle damage, potential for serious injury/fatality to the motorcyclist), a **Level 1 (Full) Emergency Response** would be immediately necessary, including:
+        *   **Police:** For accident investigation, traffic control, and reporting.
+        *   **Ambulance/EMS:** For immediate medical attention and transport of potentially injured individuals.
+        *   **Fire Department:** To assess and mitigate potential hazards (e.g., fuel leaks, fire, vehicle extrication).
+==================================================
